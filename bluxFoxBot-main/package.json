@@ -1,0 +1,21 @@
+{
+    "name": "BluxFoxBot",
+    "version": "1.0.0",
+    "description": "Bot host for server 2y2c",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js-selfbot": "^12.0.2",
+        "express": "^4.17.2",
+        "glob": "^7.1.7",
+        "mongoose": "^6.0.2",
+        "nekos.life": "^2.0.7",
+        "node-fetch": "^2.6.6"
+    }
+}
